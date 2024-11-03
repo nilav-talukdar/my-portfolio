@@ -4,10 +4,6 @@ Welcome to my portfolio! This project showcases my skills, certifications, and e
 
 ## Table of Contents
 
-
-![Screenshot 2024-11-03 003431](https://github.com/user-attachments/assets/6ff91eaf-7360-419e-aa25-08daad053998)
-
-
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Installation](#installation)
