@@ -32,4 +32,3 @@ To get started, clone the repository:
 git clone https://github.com/nilav-talukdar/my-portfolio.git
 cd my-portfolio
 npm install
-npm run dev
