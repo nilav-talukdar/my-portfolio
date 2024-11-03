@@ -29,7 +29,7 @@ Welcome to my portfolio! This project showcases my skills, certifications, and e
 To get started, clone the repository:
 
 ```bash
-git clone https://github.com/nilav-talukdar/Portfolio.git
-cd Portfolio
+git clone https://github.com/nilav-talukdar/my-portfolio.git
+cd my-portfolio
 npm install
 npm run dev
