@@ -4,6 +4,8 @@ Welcome to my portfolio! This project showcases my skills, certifications, and e
 
 ## Table of Contents
 
+![Github-Profile](https://github.com/user-attachments/assets/d74605b3-9b4b-4dd9-98b9-257f9a3c0621)
+
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Installation](#installation)
